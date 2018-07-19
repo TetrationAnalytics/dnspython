@@ -23,7 +23,7 @@ __all__ = [
     'exception',
     'flags',
     'hash',
-    'hallo',
+    'hello',
     'inet',
     'ipv4',
     'ipv6',
